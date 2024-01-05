@@ -11,6 +11,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 200px;
 
 }
 
@@ -50,4 +51,14 @@ nav li {
 
 nav a {
     text-decoration: none;
+}
+/* header releted styles */
+.header{
+    background-color:#FFF8F3;
+}
+
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex;
+    gap: 900px;
 }
